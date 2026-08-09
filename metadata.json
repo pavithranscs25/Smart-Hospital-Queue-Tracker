@@ -1,0 +1,6 @@
+{
+  "name": "Smart Hospital Queue Management System",
+  "description": "A smart hospital queue management system for token generation, live queue tracking, doctor queue control, and admin dashboard statistics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
