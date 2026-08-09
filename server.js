@@ -44,7 +44,7 @@ async function startServer() {
   }
 
   app.listen(PORT, '0.0.0.0', () => {
-    console.log(` Smart Hospital Queue Backend running on http://0.0.0.0:${PORT}`);
+    console.log(` Smart Hospital Queue Backend running on port ${PORT}`);
   });
 }
 
